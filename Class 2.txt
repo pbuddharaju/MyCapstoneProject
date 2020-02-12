@@ -1,1 +1,3 @@
 This is class 2
+
+More stuff
